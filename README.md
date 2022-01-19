@@ -42,4 +42,4 @@ Current Project: <a href="https://github.com/Yarwoll/first_programs">My first Py
 <br />
 
 
-⭐️[Yarwoll](https://github.com/Yarwoll)
+⭐️by [Yarwoll](https://github.com/Yarwoll)
