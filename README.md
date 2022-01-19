@@ -39,7 +39,7 @@ Current Project: <a href="https://github.com/Yarwoll/first_programs">My first Py
   <a href="https://www.instagram.com/yarwoll/">
   <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
-<br />
+
 
 <p align="center">
 ⭐️ From <a href="https://github.com/Yarwoll/">Yarwoll</a>
