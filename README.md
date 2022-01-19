@@ -24,7 +24,7 @@
 
 Current Project: <a href="https://github.com/Yarwoll/first_programs">My first Python programs.</a>
 
-
+<p align="center">
 
 
 <a href="https://www.linkedin.com/in/yarwoll/">
