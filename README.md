@@ -33,10 +33,13 @@ Current Project: <a href="https://github.com/Yarwoll/first_programs">My first Py
 <a href="https://t.me/Yarwoll">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.hackerrank.com/ajaykhalsa_ak">
-  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+<a href="https://open.spotify.com/user/31v3lzk7c4pqdgyqaxtpknbknlxa">
+  <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />
+</a>
+  <a href="https://www.instagram.com/yarwoll/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
 <br />
-<img src="https://media2.giphy.com/media/QW9Oe9EY1o2zE649Cc/giphy.gif?cid=ecf05e47inakedcro47wdvzb0mol3kpzs90s1ca5hoeymx3v&rid=giphy.gif" width="50"> 
+
 
 ⭐️ From [Yarwoll](https://github.com/Yarwoll)
