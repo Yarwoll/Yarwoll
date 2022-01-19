@@ -31,13 +31,13 @@ Current Project: <a href="https://github.com/Yarwoll/first_programs">My first Py
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/Yarwoll">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="center" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://open.spotify.com/user/31v3lzk7c4pqdgyqaxtpknbknlxa">
-  <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />
+  <img align="center" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />
 </a>
   <a href="https://www.instagram.com/yarwoll/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+  <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
 <br />
 
