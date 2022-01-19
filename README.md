@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm Yaryna. <br>
-    <br>I'm QA engineer in a game dev<br>
+    <br>Dear UserName, welcome to my page! <br>
+    <br>I'm Yaryna - QA engineer in a game dev<br>
     <br>On the path of Python learning<br>
     <br>Storing my results here<br>
 
