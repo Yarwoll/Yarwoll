@@ -26,13 +26,17 @@ Current Project: <a href="https://github.com/Yarwoll/first_programs">My first Py
 
 
 <img src="https://media2.giphy.com/media/QW9Oe9EY1o2zE649Cc/giphy.gif?cid=ecf05e47inakedcro47wdvzb0mol3kpzs90s1ca5hoeymx3v&rid=giphy.gif" width="50"> 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yarwoll/)](https://www.linkedin.com/in/yarwoll/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://www.instagram.com/yarwoll)](https://www.instagram.com/yarwoll/)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1db954?style=flat-square&labelColor=1db954&logo=spotify&logoColor=white&link=https://open.spotify.com/user/22prktxbbzv476kqemxclmwri)](https://open.spotify.com/user/31v3lzk7c4pqdgyqaxtpknbknlxa?si=xYAN_Xt9SSKUlV9THv_Isg) 
-</p> 
 
-
-</samp>
-</details>
+<a href="https://www.linkedin.com/in/yarwoll/">
+  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/Yarwoll">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.hackerrank.com/ajaykhalsa_ak">
+  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ⭐️ From [Yarwoll](https://github.com/Yarwoll)
