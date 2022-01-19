@@ -28,7 +28,7 @@ Current Project: <a href="https://github.com/Yarwoll/first_programs">My first Py
 
  
 <h1 align="center"><a href="https://www.linkedin.com/in/yarwoll/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/Yarwoll">
   <img align="center" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
