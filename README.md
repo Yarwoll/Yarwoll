@@ -41,4 +41,4 @@ Current Project: <a href="https://github.com/Yarwoll/first_programs">My first Py
 </a>
 <br />
 
-⭐️ From [yarwoll](https://github.com/Yarwoll)
+⭐️ From <a href="https://github.com/Yarwoll/">Yarwoll</a>
