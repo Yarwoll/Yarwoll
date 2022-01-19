@@ -25,7 +25,7 @@
 Current Project: <a href="https://github.com/Yarwoll/first_programs">My first Python programs.</a>
 
 
-<img src="https://media2.giphy.com/media/QW9Oe9EY1o2zE649Cc/giphy.gif?cid=ecf05e47inakedcro47wdvzb0mol3kpzs90s1ca5hoeymx3v&rid=giphy.gif" width="50"> 
+
 
 <a href="https://www.linkedin.com/in/yarwoll/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -37,6 +37,6 @@ Current Project: <a href="https://github.com/Yarwoll/first_programs">My first Py
   <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img src="https://media2.giphy.com/media/QW9Oe9EY1o2zE649Cc/giphy.gif?cid=ecf05e47inakedcro47wdvzb0mol3kpzs90s1ca5hoeymx3v&rid=giphy.gif" width="50"> 
 
 ⭐️ From [Yarwoll](https://github.com/Yarwoll)
