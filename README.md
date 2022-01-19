@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <br>
   <samp>
@@ -24,7 +22,7 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
+Current Project: <a href="https://github.com/Yarwoll/first_programs">My first Python programs.</a>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
