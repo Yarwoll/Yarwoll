@@ -25,8 +25,8 @@
 Current Project: <a href="https://github.com/Yarwoll/first_programs">My first Python programs.</a>
 
 
-<details align="center">
-  
+
+<p align="center">  
 <a href="https://www.linkedin.com/in/yarwoll/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
