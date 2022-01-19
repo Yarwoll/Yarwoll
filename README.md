@@ -42,7 +42,5 @@ Current Project: <a href="https://github.com/Yarwoll/first_programs">My first Py
 <br />
 
 <p align="center">
-  <br>
-  <samp>
 ⭐️ From <a href="https://github.com/Yarwoll/">Yarwoll</a>
-   <br>
+
