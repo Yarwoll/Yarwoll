@@ -41,5 +41,4 @@ Current Project: <a href="https://github.com/Yarwoll/first_programs">My first Py
 </a>
 <br />
 
-<font size="1">
 ⭐️ From [yarwoll](https://github.com/Yarwoll)
