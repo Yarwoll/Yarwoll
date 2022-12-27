@@ -22,12 +22,11 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="[https://github.com/Yarwoll/first_programs](https://github.com/Yarwoll/Yarwoll-WebUI-automation-framework-Python-Selenium)">Python/Selenium automation framework.</a>
 
 
 
  
-<h1 align="center"><a href="https://www.linkedin.com/in/yarwoll/">
+<h1 align="center"><a href="https://www.linkedin.com/in/yary/">
   <img align="center" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/Yarwoll">
