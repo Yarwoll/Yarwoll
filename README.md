@@ -22,7 +22,7 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://github.com/Yarwoll/first_programs">My first Python programs.</a>
+Current Project: <a href="[https://github.com/Yarwoll/first_programs](https://github.com/Yarwoll/Yarwoll-WebUI-automation-framework-Python-Selenium)">Python/Selenium automation framework.</a>
 
 
 
@@ -32,12 +32,6 @@ Current Project: <a href="https://github.com/Yarwoll/first_programs">My first Py
 </a>
 <a href="https://t.me/Yarwoll">
   <img align="center" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://open.spotify.com/user/31v3lzk7c4pqdgyqaxtpknbknlxa">
-  <img align="center" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />
-</a>
-  <a href="https://www.instagram.com/yarwoll/">
-  <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
 
 
