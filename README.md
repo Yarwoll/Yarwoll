@@ -2,8 +2,10 @@
   <br>
   <samp>
     <br>Dear UserName, welcome to my page! <br>
-    <br>I'm Yaryna - QA engineer in a game dev<br>
-    <br>On the path of Python learning<br>
+    <br>I'm Yaryna - a novice automation engineer(quality assurance)<br>
+    <br>My goal - becoming a polyglot in programming languages with an in-depth understanding of how everything works on the lowest levels as well on the helicopter view.<br>
+    <br>Future indie game developer<br>
+    <br>On the path of learning<br>
     <br>Storing my results here<br>
 
 
