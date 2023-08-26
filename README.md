@@ -2,9 +2,9 @@
   <br>
   <samp>
     <br>Dear UserName, welcome to my page! <br>
-    <br>I'm Yaryna - a novice automation engineer(quality assurance)<br>
+    <br>I'm Yaryna - a Python automation engineer(quality assurance and data processing fields)<br>
     <br>My goal - becoming a polyglot in programming languages with an in-depth understanding of how everything works on the lowest levels as well on the helicopter view.<br>
-    <br>Future indie game developer<br>
+    <br>Future computer vision engineer<br>
     <br>On the path of learning<br>
     <br>Storing my results here<br>
 
